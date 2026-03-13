@@ -6,7 +6,7 @@ def ganjil(bawah,atas):
                 if i % 2 != 0:
                     print(i,end="")
                     if i < atas -1:
-                        print(" ",end="")
+                        print(", ",end="")
                  
         print(f".")
     elif bawah > atas:
@@ -16,7 +16,7 @@ def ganjil(bawah,atas):
                 if i % 2 !=0:
                     print(i,end="")
                     if i > atas+1:
-                        print(" ",end="")
+                        print(", ",end="")
         print(f".")
 ganjil(10,30)
 ganjil(97,82)
