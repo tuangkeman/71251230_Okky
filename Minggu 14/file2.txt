@@ -1,0 +1,4 @@
+Java is also a popular programming language.
+It is used for web development and mobile applications.
+Many developers use Java and Python together.
+Object oriented programming is a key feature of Java.
